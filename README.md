@@ -6,8 +6,6 @@
 
 - 🌱 I'm currently learning **Tanstack & OpenClaw**
 
-- 💬 Ask me about **AI, Next, AWS**
-
 - 📫 How to reach me **james@2b.co.uk**
 
 - 👨‍💻 All of my projects are available at **[https://2b.co.uk/portfolio](https://2b.co.uk/portfolio)**
