@@ -2,8 +2,6 @@
 
 ### A passionate Full Stack Developer from the UK 🇬🇧
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesrice96&label=Profile views&color=0e75b6&style=flat" alt="jamesrice96" /> </p>
-
 - 🔭 I'm currently working at **[2B](https://2b.co.uk)**
 
 - 🌱 I'm currently learning **Tanstack, OpenClaw**
