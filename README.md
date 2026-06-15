@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working at **[2B](https://2b.co.uk)**
 
-- 🌱 I'm currently learning **Tanstack & OpenClaw**
+- 🌱 I'm currently learning **Tanstack Start & OpenClaw**
 
 - 📫 How to reach me **james@2b.co.uk**
 
