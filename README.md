@@ -1,4 +1,4 @@
-# Hi 👋, I'm James Rice
+# Hello, I'm James 👋
 
 ### A passionate Full Stack Developer from the UK 🇬🇧
 
